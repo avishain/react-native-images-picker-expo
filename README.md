@@ -15,16 +15,12 @@
 ## Usage
 #### Examples - display
 
-<!--
+
 <div style="display:flex;flex-direction:row">
-  <img src="https://res.cloudinary.com/dexts7jfo/image/upload/v1600198194/demo_tzty07.gif" height="500" width="280" />
+  <img src="https://res.cloudinary.com/dexts7jfo/image/upload/v1606157977/images-picker_tfjnun.gif" height="500" width="280" />
 </div>
 <br/>
-<div style="display:flex;flex-direction:row">
-  <img src="https://res.cloudinary.com/dexts7jfo/image/upload/v1595960302/image2_eqbpiw.png" style="height:100%;width:100%"/>
-  <img src="https://res.cloudinary.com/dexts7jfo/image/upload/v1595960364/image_daoab0.png" style="height:100%;width:100%"/>
-</div>
--->
+
 #### Examples - code (reflects the short video above)
 
 ```javascript

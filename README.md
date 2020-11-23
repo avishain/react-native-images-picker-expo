@@ -3,8 +3,8 @@
 ![Supports Android and iOS](https://img.shields.io/badge/platforms-android%20|%20ios-blue.svg) &nbsp;&nbsp;
 ![MIT License](https://img.shields.io/npm/l/react-native-range-slider-expo?color=red)
 <!-- ### Images picker browser which enables user to select more than one image at a time from the device media librry -->
-#### Enables you to select from your gallery's albums.
-#### The images are automatically sorted by the time they created in the device.
+#### Enables user to select from within his gallery's albums.
+#### The images are automatically sorted by the time they were created in the device.
 #### Also enables you to select only a single image and that way to use this plugin all over your app and keep the app design consistant.
 
 <br/><br/>

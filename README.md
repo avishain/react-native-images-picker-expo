@@ -5,7 +5,7 @@
 <!-- ### Images picker browser which enables user to select more than one image at a time from the device media librry -->
 #### Enables user to select from within his gallery's albums.
 #### The images are automatically sorted by the time they were created in the device.
-#### Also enables you to select only a single image and that way to use this plugin all over your app and keep the app design consistant.
+#### Also enables you to define a single image selection and that way to use this plugin all over your app and keep the app design consistant.
 
 <br/><br/>
 ## Getting started

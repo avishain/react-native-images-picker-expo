@@ -4,6 +4,7 @@
 ![MIT License](https://img.shields.io/npm/l/react-native-range-slider-expo?color=red)
 
 ### Images browser for React-native projects
+<br/>
 
 #### Enables user to select from within his gallery's albums.
 #### The images are automatically sorted by the time they were created in the device.

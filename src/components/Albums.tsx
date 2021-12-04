@@ -1,6 +1,7 @@
 import * as MediaLibrary from 'expo-media-library';
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import { View, StyleSheet, ActivityIndicator, Alert, FlatList } from 'react-native';
+import { useStateIfMounted } from "use-state-if-mounted";
 import AlbumTile, { width } from './AlbumTile';
 
 interface AlbumsProps {
@@ -8,8 +9,8 @@ interface AlbumsProps {
 }
 
 const Albums = ({ setSelectedAlbum }: AlbumsProps) => {
-     const [loading, setLoading] = useState(true);
-     const [albums, setAlbums] = useState<MediaLibrary.Album[]>([]);
+     const [loading, setLoading] = useStateIfMounted(true);
+     const [albums, setAlbums] = useStateIfMounted<MediaLibrary.Album[]>([]);
 
      useEffect(() => {
           setLibrary();

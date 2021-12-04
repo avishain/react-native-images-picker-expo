@@ -7,7 +7,8 @@
      "version": "1.0.0",
      "types": "./src/App",
      "dependencies": {
-          "expo-media-library": "^9.2.1"
+          "expo-media-library": "^9.2.1",
+          "use-state-if-mounted": "^1.0.4"
      },
      "peerDependencies": {
           "expo": "~39.0.2",
@@ -24,7 +25,7 @@
           "typescript": "~3.9.5"
      },
      "keywords": [
-         "entrance",
-         "animation"
+          "entrance",
+          "animation"
      ]
 }
